@@ -1,4 +1,3 @@
-# Portofoliu-Proiecte
 # Portofoliu Proiecte IT - Raul
 
 Acest repository conține o selecție de proiecte dezvoltate în timpul studiilor de Licență și Master, acoperind domenii precum Game Development, Machine Learning și Securitate Cibernetică.
